@@ -440,8 +440,8 @@ Example request body:
 
 ```
 {
-   "clientName": "Postman on Valentin's computer",
-   "clientEmail": "valentin@example.com"
+   "clientName": "Postman on demo's computer",
+   "clientEmail": "demo@example.com"
 }
 ```
 
